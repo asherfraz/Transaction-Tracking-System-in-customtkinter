@@ -1,12 +1,13 @@
 # Transaction Tracking System in customtkinter
 
-This is a Transaction Tracking System developed using the customtkinter library in Python. It provides a graphical user interface (GUI) for managing transactions, tracking earnings, and performing various operations related to transactions.
+This is a Transaction Tracking System developed using the customtkinter library in Python with sqlite3 database. It provides a graphical user interface (GUI) for managing transactions, tracking earnings, and performing various operations related to transactions.
 
 ![Transaction Tracking System in customtkinter]([gif_url](https://github.com/asherfraz/Transaction-Tracking-System-in-customtkinter/blob/main/Screenshots/GIF.gif?raw=true))
 
 ## Features
 
 - Add new transactions with details such as product name, price, quantity, and date/time.
+- Store data in sqlite3 database.
 - View and edit existing transactions.
 - Delete transactions.
 - Generate reports and summaries of transactions (Comming Soon!).
@@ -40,7 +41,7 @@ This is a Transaction Tracking System developed using the customtkinter library 
 - Use the navigation buttons to navigate between different sections of the application.
 - Add, edit, delete transactions as needed.
 - Customize appearance mode and theme according to your preference.
-- Generate reports and summaries for transaction analysis.
+- Generate reports and summaries for transaction analysis (Comming Soon!).
 
 ## Screenshots
 
