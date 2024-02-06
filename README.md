@@ -47,9 +47,12 @@ This is a Transaction Tracking System developed using the customtkinter library 
 
 ## Screenshots
 
-Light Theme
+Light Theme:
+
 ![light](https://github.com/asherfraz/Transaction-Tracking-System-in-customtkinter/blob/main/Screenshots/light.png?raw=true)
-Dark Theme
+
+Dark Theme:
+
 ![dark](https://github.com/asherfraz/Transaction-Tracking-System-in-customtkinter/blob/main/Screenshots/dark.png?raw=true)
 
 
