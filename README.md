@@ -2,6 +2,10 @@
 
 This is a Transaction Tracking System developed using the customtkinter library in Python with sqlite3 database. It provides a graphical user interface (GUI) for managing transactions, tracking earnings, and performing various operations related to transactions.
 
+<p align="center">
+ <!-- <img align="center" alt="Coding" width="300" height="305" src="https://github.com/asherfraz/asherfraz/blob/main/media/eat_sleep_code_repeat2.gif"> -->
+ <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/coding-gif.gif](https://github.com/asherfraz/Transaction-Tracking-System-in-customtkinter/blob/main/Screenshots/GIF.gif">
+</p>
 ![Transaction Tracking System in customtkinter]([gif_url](https://github.com/asherfraz/Transaction-Tracking-System-in-customtkinter/blob/main/Screenshots/GIF.gif?raw=true))
 
 ## Features
