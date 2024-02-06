@@ -37,7 +37,7 @@ This is a Transaction Tracking System developed using the customtkinter library 
 
 ## Usage
 
-- Launch the application using the main.py file.
+- Launch the application using the app.py file.
 - Use the navigation buttons to navigate between different sections of the application.
 - Add, edit, delete transactions as needed.
 - Customize appearance mode and theme according to your preference.
